@@ -1,13 +1,12 @@
 # ASSIGNMENT5-Q4
 Data Poisoning Simulation
-Overview
-This project simulates a data poisoning attack on a basic sentiment classifier trained on the NLTK movie reviews dataset. The goal is to demonstrate how malicious manipulation of training data (i.e., label flipping) can degrade a model's performance.
-
 Student Details
 Name: LOKESH REDDY
 Course: CS5720 – Neural Network and Deep Learning
 Semester: Spring 2025
 University: University of Central Missouri
+Overview
+This project simulates a data poisoning attack on a basic sentiment classifier trained on the NLTK movie reviews dataset. The goal is to demonstrate how malicious manipulation of training data (i.e., label flipping) can degrade a model's performance.
 Objectives
 Train a sentiment classifier using the movie_reviews dataset.
 Poison a subset of the training data by flipping labels for reviews mentioning a specific entity (e.g., "Berkeley").
